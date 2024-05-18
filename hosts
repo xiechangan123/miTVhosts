@@ -58,7 +58,6 @@
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 h5.hpplay.com.cn
 127.0.0.1 hotupgrade.hpplay.cn
-127.0.0.1 hotupgrade.hpplay.cn
 127.0.0.1 hpplay.cdn.cibn.cc
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
@@ -123,3 +122,15 @@
 127.0.0.1 vipauth.hpplay.cn
 127.0.0.1 vipsdkauth.hpplay.cn
 127.0.0.1 vv.play.aiseet.atianqi.com
+
+# 爱奇艺（银河奇异果）
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+# Gitv
+127.0.0.1 video.market.xiaomi.com
+# 腾讯（云视听极光）
+127.0.0.1 sv-video.play.aiseet.atianqi.com
+# 芒果TV
+127.0.0.1 mobaliyun.res.mgtv.com
+# 优酷（CIBN酷喵）
+127.0.0.1 pl.cp31.ott.cibntv.net
+127.0.0.1 vali-ugc.cp31.ott.cibntv.net
